@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/decibelFragment">
+    <fragment
+        android:id="@+id/decibelFragment"
+        android:name="com.example.proyectovisualestfg.DecibelFragment"
+        android:label="fragment_decibel"
+        tools:layout="@layout/fragment_decibel" />
+    <fragment
+        android:id="@+id/infoFragment"
+        android:name="com.example.proyectovisualestfg.InfoFragment"
+        android:label="fragment_info"
+        tools:layout="@layout/fragment_info" />
+    <fragment
+        android:id="@+id/tuneFragment"
+        android:name="com.example.proyectovisualestfg.TuneFragment"
+        android:label="fragment_tune"
+        tools:layout="@layout/fragment_tune" />
+</navigation>

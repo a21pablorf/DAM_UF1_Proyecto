@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ProyectoVisualesTFG</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="startBtn">Start</string>
+    <string name="stopBtn">Stop</string>
+    <string name="decibels">DECIBELS: </string>
+
+    <string name="tuneBottom">Tune</string>
+    <string name="decibelBottom">Decibel</string>
+    <string name="infoBottom">Info</string>
+    <string name="failed_permission">The necessary permissions have not been granted.</string>
+    <string name="dbDefinition">Decibels (dB) are a unit of measurement used to express the relative intensity of a sound. This logarithmic scale is used to represent the amplitude or strength of an audio signal. The greater the number of decibels, the greater the intensity of the sound. sound.</string>
+    <string name="dbInfo">As can be seen in the infographic above, sound pressure is measured in pascals (Pa) and is related to the sound pressure level in decibels, through a logarithmic scale. An increase of 10 dB is generally perceived as twice the the sound intensity. The human hearing threshold is commonly around 0 dB, while higher levels indicate louder sounds.</string>
+    <string name="dbHurts">Prolonged exposure to high decibel levels, especially at frequencies to which the human ear is most sensitive, can cause permanent hearing damage. Because of this, the importance of hearing protection in noisy environments is notable.</string>
+</resources>

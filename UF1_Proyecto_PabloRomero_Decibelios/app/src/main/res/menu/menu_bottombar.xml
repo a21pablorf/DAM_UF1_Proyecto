@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/decibelFragment"
+        android:icon="@drawable/ic_decibel2"
+        android:title="@string/decibelBottom"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/tuneFragment"
+        android:icon="@drawable/ic_tune"
+        android:title="@string/tuneBottom"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/infoFragment"
+        android:icon="@android:drawable/ic_menu_help"
+        android:title="@string/infoBottom"
+        app:showAsAction="always" />
+</menu>

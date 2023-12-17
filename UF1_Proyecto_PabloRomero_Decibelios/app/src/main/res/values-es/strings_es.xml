@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProyectoVisualesTFG</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="startBtn">Iniciar</string>
+    <string name="stopBtn">Parar</string>
+    <string name="decibels">DECIBELIOS: </string>
+
+    <string name="tuneBottom">Afinador</string>
+    <string name="decibelBottom">Decibelios</string>
+    <string name="infoBottom">Info</string>
+    <string name="failed_permission">No se han concedido los permisos necesarios.Debe reiniciar la aplicacion</string>
+    <string name="dbDefinition">Los decibelios (dB) son una unidad de medida utilizada para expresar la intensidad relativa de un sonido.
+        Esta escala logarítmica se utiliza para representar la amplitud o fuerza de una señal de audio.Cuanto mayor es el número de decibelios,
+        mayor es la intensidad del sonido.</string>
+    <string name="dbInfo">Como se puede ver en la infografia superior, la presión sonora se mide en pascales (Pa) y se relaciona con el nivel de presión sonora en decibelios,
+        a través de una escala logarítmica.\nUn aumento de 10 dB se percibe generalmente como el doble de la intensidad sonora. El umbral de audición humana comúnmente se sitúa alrededor de 0 dB,
+        mientras que niveles más altos indican sonidos más fuertes.</string>
+    <string name="dbHurts">La exposición prolongada a niveles altos de decibelios, especialmente en frecuencias a las que el oído humano es más sensible, puede causar daño auditivo permanente.
+    Debido a esto es destacable la importancia de la protección auditiva en entornos ruidosos.</string>
+</resources>
